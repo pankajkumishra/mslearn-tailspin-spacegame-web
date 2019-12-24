@@ -1,6 +1,6 @@
 namespace TailSpin.SpaceGame.Web.Models
 {
-    public cclass ErrorViewModel
+    public class ErrorViewModel
     {
         public string RequestId { get; set; }
 
